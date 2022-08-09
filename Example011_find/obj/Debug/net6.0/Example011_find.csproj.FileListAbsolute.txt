@@ -1,0 +1,15 @@
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\obj\Debug\net6.0\Example011_find.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\obj\Debug\net6.0\Example011_find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\obj\Debug\net6.0\Example011_find.AssemblyInfoInputs.cache
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\obj\Debug\net6.0\Example011_find.AssemblyInfo.cs
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\obj\Debug\net6.0\Example011_find.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\bin\Debug\net6.0\Example011_find.exe
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\bin\Debug\net6.0\Example011_find.deps.json
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\bin\Debug\net6.0\Example011_find.runtimeconfig.json
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\bin\Debug\net6.0\Example011_find.dll
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\bin\Debug\net6.0\Example011_find.pdb
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\obj\Debug\net6.0\Example011_find.dll
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\obj\Debug\net6.0\refint\Example011_find.dll
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\obj\Debug\net6.0\Example011_find.pdb
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\obj\Debug\net6.0\Example011_find.genruntimeconfig.cache
+C:\Users\Настя\Desktop\Дела\тестирование\домашние задания гикбрейнс\с#\Examples2\Example011_find\obj\Debug\net6.0\ref\Example011_find.dll
